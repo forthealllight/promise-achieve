@@ -130,4 +130,4 @@ myPromise.deferred=function(){
   });
   return dfd;
 }
-module.exports=myPromise;
+export default myPromise;
